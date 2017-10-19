@@ -1,0 +1,10 @@
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1000
+
+github:
+  url: http://localhost:10087

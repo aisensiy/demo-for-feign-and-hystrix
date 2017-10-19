@@ -1,0 +1,6 @@
+github:
+  url: http://localhost:10086
+
+feign:
+  hystrix:
+    enabled: true
